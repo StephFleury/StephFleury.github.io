@@ -1,0 +1,22 @@
+{"groupe":{
+"groupId":"8d5e5033-6327-4c71-9727-1347834df5c8",
+"typeName":"BONUS",
+"name":"monbonus"
+},"modeles": [{
+  "id": 0,
+  "name": "agrapheuse01",
+  "modeleId": "4d5e5033-6327-4c71-9727-1347834df5c7",
+  "isNew": true,
+  "needPub": false,
+  "enligne": true,
+  "size": 167,
+  "isSurprise": false,
+  "isQuotidien": false,
+  "dateCrea": "2024-09-20T00:00:00+02:00",
+  "dateMEL": "2024-09-20T00:00:00+02:00",
+  "base64_preview": "iVBORw0KGgoAAAANSUhEUgAAABIAAAAMCAYAAABvEu28AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB2SURBVDhPnZHBDQAhCAStxxZ4+7UBu/Br8VwgkuOSJYduMh9Z5oHFZ63Ff+xqHF/uvYf4nrEVrwQtZino0WitpSAiLmhwgkhUZKm1wkNa0UASQcsiyeKXPSpCgwiRjTE+qOQmc0727Od80M8aWvAHvOXoPjHEDz28NwUBUYCuAAAAAElFTkSuQmCC",
+  "base64_colored": "iVBORw0KGgoAAAANSUhEUgAAABIAAAAMCAYAAABvEu28AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB7SURBVDhPY0AG/x09/hPCUKW4AYoGRg7cGFkdFEONQDIEm0YiMQM2QRh+zsBMFD7CwPSfAZsEKRhkCNggONCvwxqQMIUwjM0QEIaoBhlCJEbWjIwhBjmv+k80BhmY/wwVkw0m/fmPgkkF2GIWhsEKkAOQXIwRK+Rhpv8A9uZLffraZwIAAAAASUVORK5CYII=",
+  "isPlayerModele": false,
+  "player_name": "sopixel"
+}]
+}
